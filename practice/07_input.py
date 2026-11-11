@@ -1,0 +1,6 @@
+first_name = input("Friend's name? ")
+event = input("What event? ")
+number = input("How many? ")
+noun = input("What things? ")
+verb = input("What action? ")
+print(f"Sorry, {first_name}. I can't go to {event}. I have {number} {noun} to {verb}.")

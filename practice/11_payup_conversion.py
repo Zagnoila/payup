@@ -1,0 +1,5 @@
+event = input("Occasion? ")
+cost = float(input("Cost? "))
+service_charge = int(input("Tip percentage? "))
+group_size = int(input("People? "))
+print(type(event), type(cost), type(service_charge), type(group_size))
